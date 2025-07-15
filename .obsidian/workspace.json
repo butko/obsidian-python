@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "f9a9bf78ea050a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "96078f54f4406e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f356f79c778c70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Переменные Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переменные Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff68e0a33389dd44",
+    "type": "split",
+    "children": [
+      {
+        "id": "736fe3313a66bb19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9cfa9d0ddcd02b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "df2f87bc26665574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ae6fa240b9d969f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74c7ae0984e74ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d808001792c387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af94c0f1681cc1de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Переменные Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Переменные Python"
+            }
+          },
+          {
+            "id": "92bde45edee9ff8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Переменные Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Переменные Python"
+            }
+          },
+          {
+            "id": "3562ebd85dd4e742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4905cf3e62832e59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Переменные Python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Переменные Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7f356f79c778c70d",
+  "lastOpenFiles": [
+    "Преимущества Python.md",
+    "Программы курсов.md",
+    "Условная конструкция.md",
+    "print.md",
+    "PyCharm.md",
+    "Python.md",
+    "Pyrhon.md",
+    "Функции Python.md",
+    "Pasted image 20220502215305.png",
+    "Операторы сравнения.md",
+    "Знаки математических действий.md",
+    "Ключевое слово elif.md",
+    "Интерпретатор Python.md",
+    "Вложенность.md"
+  ]
+}

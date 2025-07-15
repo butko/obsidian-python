@@ -24,3 +24,7 @@ Jupyter Notebook — это мощный инструмент для разра�
  Pytti 5 - python text to image - https://archive.org/details/pytti-5-beta
 
 https://habr.com/ru/articles/775548/
+
+https://habr.com/ru/post/721186
+
+https://proglib.io/p/dorozhnaya-karta-python-razrabotchika-v-2023-godu-2023-09-05
